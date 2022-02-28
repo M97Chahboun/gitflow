@@ -4,5 +4,5 @@
 - add feature Y (fix issue on feature Y).
 - add feature X (fix issue on feature X).
 - fix minor bug.
-
+- add feature B.
 
