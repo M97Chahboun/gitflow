@@ -3,7 +3,7 @@
 - start release 0.0.1.
 - add feature Y (fix issue on feature Y).
 - add feature X (fix issue on feature X).
-- add feature B .
+- add feature B (fix issue on feature B).
 - fix minor bug.
 
 
